@@ -42,7 +42,7 @@ html {
 }
 
 
-/* // Medium devices (tablets, 768px and up) */
+/* // Medium devices (, 768px and up) */
 @media (min-width: 992px) {
     .container {
         width: 970px;
@@ -56,7 +56,7 @@ html {
     }
 }
 
-/* // Extra large devices (large desktops, 1200px and up) */
+/* // Extra large devices (desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .container {
         width: 1200px;
